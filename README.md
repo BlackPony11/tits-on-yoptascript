@@ -1,4 +1,4 @@
-# Tits on YouptaScript
+# Project T.I.T.S on YouptaScript
 
 Small funny project with example of YoptaScript code usage.
 
