@@ -1,4 +1,4 @@
-# Project T.I.T.S on YouptaScript
+# Project T.I.T.S on YoptaScript
 
 Small funny project with example of YoptaScript code usage.
 
